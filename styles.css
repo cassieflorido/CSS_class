@@ -1,0 +1,27 @@
+p{
+  color:red;
+}
+
+p{
+  color:#666666;
+font-family:Helvetica, Arial, sans-serif;
+}
+
+h1{
+  font-family:Georgia, "Times New Roman", serif;
+}
+
+body{
+  background-color:#ebe3ce;
+}
+
+#container{
+  background-color:#ffffff;
+  width:95%;
+  margin:0,auto;
+  padding:10px 25px;
+}
+
+img{
+  width:50%;
+}
